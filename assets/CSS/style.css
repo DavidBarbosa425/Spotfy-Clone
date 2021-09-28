@@ -169,6 +169,14 @@ h3 {
     .btn-custom {
         margin: 10px 15px;
     }
+
+    footer h4 {
+        margin-top: 40px;
+    }
+
+    footer ul li {
+        margin: 5px;
+    }
  }
 
 /* Small devices (landscape phones, 576px and up) */
